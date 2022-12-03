@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Herman</h1>
 <h3 align="center">A passionate frontend developer and UI Designer from South Africa 🇿🇦</h3>
 
-- 🔭 I’m currently working on **A Stable Diffusion database search engine**
+- 🔭 I’m currently working on **a Stable Diffusion database search engine**
 
 - 👨‍💻 All of my projects are available at [https://jhkritzinger.co.za/](https://jhkritzinger.co.za/)
 
